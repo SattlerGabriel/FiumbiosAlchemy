@@ -1,0 +1,7 @@
+!# This mod is early in development, things may be poorly balanced or not work correctly! Do let me know if you find any problems! #!
+
+Regular combat potions not making the cut anymore? Do you have enough gold to build a castle but you need lead instead? Worry not, for this mod provides with solutions to both of these problems!
+
+Fiumbio's Alchemy as of now adds: 
+    - Concentrated Potions, which have stronger effects to their normal counterparts!
+    - Metal ore & bar transmutations, convert any ore or bar to a universal alternative you can then transmute to whatever metal you actually need!

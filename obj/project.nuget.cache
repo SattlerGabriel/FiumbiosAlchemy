@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l0YNQCSzSUxB4exeEP2EzLomWGH6olGcLNBJXy7Kv4pR5HEWCItEpN2v5CgpOc8mwUOFIDIexDgmPcky+yYouA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fiumbo\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FiumbiosAlchemy\\FiumbiosAlchemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fiumbo\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
