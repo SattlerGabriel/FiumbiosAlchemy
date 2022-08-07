@@ -1,3 +1,0 @@
-displayName = Fiumbio's Alchemy
-author = Fiumbio
-version = 0.2
